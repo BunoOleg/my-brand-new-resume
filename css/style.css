@@ -83,7 +83,7 @@ body {
 
 .my-projects-item {
     color: #000;
-    font-weight: bold;
+    font-weight: normal;
     margin-bottom: 20px;
 }
 
@@ -129,14 +129,14 @@ body {
 .my-work-experience-company {
     color: #fb6d3a;
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 16px;
     line-height: 20px;
 }
 
 .my-work-experience-position {
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 16px;
     line-height: 20px;
     color: #000;
@@ -233,7 +233,7 @@ body {
     font-weight: bold;
     font-size: 28px;
     line-height: 27px;
-    color: #fff;
+    color: #000000;
     margin-bottom: 25px;
 }
 
@@ -243,7 +243,7 @@ body {
     font-weight: bold;
     font-size: 14px;
     line-height: 24px;
-    color: #fff;
+    color: #000000;
     margin-right: 7px;
 }
 
@@ -253,9 +253,9 @@ body {
 }
 
 .contacts-container-link {
-    color: #3e4249;
+    color: #000000;
     font-style: normal;
-    font-weight: 600;
+    font-weight: normal;
     font-size: 18px;
     line-height: 24px;
     display: flex;
@@ -264,7 +264,7 @@ body {
 }
 
 .contacts-container-link:hover {
-    color: #ffffff;
+    color: #000000;
 }
 
 .contacts-container-list-item {
@@ -302,5 +302,5 @@ body {
     font-weight: normal;
     font-size: 18px;
     line-height: 24px;
-    color: #fff;
+    color: #000000;
 }
