@@ -8,12 +8,12 @@ body {
     flex-direction: row-reverse;
     width: 1200px;
     background: #fff;
-    margin: 60px auto;
+    margin: 0px auto;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 .main-decorative-container {
-    padding: 100px 0 0 0;
+    padding: 0 0 0 0;
 }
 
 /* Main content section */
